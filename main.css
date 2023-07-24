@@ -1,0 +1,45 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@300&display=swap');
+
+  *
+  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Serif Thai', serif;
+  }
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+header{
+    color: #111B34;
+    font-weight: bold;
+    background-color: #ffc8f6;
+}
+
+nav {
+    height: 60px;
+    border: 1px solid #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    text-align: center;
+}
+.logo h1{
+    color: #460867;
+    font-size: 22px;
+}
+.header-titlr{
+    font-size: 18px;
+}
+
+.JJ h1 {
+    color: #111B34;
+    font-size: 16px;
+    margin: .5rem 0;
+}
+
